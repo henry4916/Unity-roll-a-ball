@@ -7,6 +7,7 @@ Unity roll-a-ball
 ## e-mail：609410151@alum.ccu.edu.tw
 ## 作業環境：Win10 64bit unity2020.3.19f1
 ## 編譯器：Visual Studio 2017
+## 參考資料：https://github.com/lukearmstrong/unity-tutorial-roll-a-ball
 ## 指定作業功能：
 ### 場景一
 #### a. 建立一個圓柱體
@@ -32,3 +33,4 @@ Unity roll-a-ball
 #### i. 讓圓柱體移動時會產生聲音
 #### j. 按下R，會重新開始遊戲
 #### k. 在player身上加入紋理
+
