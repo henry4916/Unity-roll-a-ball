@@ -3,7 +3,6 @@
 
 ### 作業環境：unity2020.3.19f1
 ### 編譯器：Visual Studio 2017
-### 參考資料：https://github.com/lukearmstrong/unity-tutorial-roll-a-ball
 ### 指定作業功能：
 #### 場景一
 ##### a. 建立一個圓柱體
@@ -17,9 +16,9 @@
 ##### i. 在牆壁導入為例
 ##### j. 在player身上加入紋理
 
-
 https://user-images.githubusercontent.com/72666141/146038457-c6b897fd-8a5a-43d8-9981-aad4814a7f11.mp4
 
+---
 
 ### 場景二
 #### a. 建立一個圓柱體
@@ -37,4 +36,6 @@ https://user-images.githubusercontent.com/72666141/146038457-c6b897fd-8a5a-43d8-
 
 
 https://user-images.githubusercontent.com/72666141/146039981-5c517c94-e7c1-4f31-998f-5c7441f14b08.mp4
+
+### 參考資料：https://github.com/lukearmstrong/unity-tutorial-roll-a-ball
 
