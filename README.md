@@ -21,6 +21,10 @@ Unity roll-a-ball
 #### i. 在牆壁導入為例
 #### j. 在player身上加入紋理
 
+
+https://user-images.githubusercontent.com/72666141/146038457-c6b897fd-8a5a-43d8-9981-aad4814a7f11.mp4
+
+
 ### 場景二
 #### a. 建立一個圓柱體
 #### b. 讓camera在圓柱體移動時會跟著移動
