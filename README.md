@@ -1,11 +1,7 @@
 # Computational-Photography_HW0
-Unity roll-a-ball
+## Unity roll-a-ball
 
-
-## 姓名：賴柏霖
-## 學號：609410151
-## e-mail：609410151@alum.ccu.edu.tw
-## 作業環境：Win10 64bit unity2020.3.19f1
+## 作業環境：unity2020.3.19f1
 ## 編譯器：Visual Studio 2017
 ## 參考資料：https://github.com/lukearmstrong/unity-tutorial-roll-a-ball
 ## 指定作業功能：
@@ -37,4 +33,8 @@ https://user-images.githubusercontent.com/72666141/146038457-c6b897fd-8a5a-43d8-
 #### i. 讓圓柱體移動時會產生聲音
 #### j. 按下R，會重新開始遊戲
 #### k. 在player身上加入紋理
+
+
+
+https://user-images.githubusercontent.com/72666141/146039981-5c517c94-e7c1-4f31-998f-5c7441f14b08.mp4
 
