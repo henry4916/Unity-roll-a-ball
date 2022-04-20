@@ -1,8 +1,7 @@
 # Unity roll-a-ball
-## Computational-Photography_HW0
+## 計算攝影學：應用圖學與影像技術_HW0
 
 ### 作業環境：unity2020.3.19f1
-### 編譯器：Visual Studio 2017
 ### 指定作業功能：
 #### 場景一
 1. 建立一個圓柱體
